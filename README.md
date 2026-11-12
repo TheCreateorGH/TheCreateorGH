@@ -10,6 +10,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
+<a href="https://github.com/GunsAndChoices/UnrealGitUI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-unrealgitui-dark.svg"><img src="assets/project-unrealgitui-light.svg" width="49%" alt="UnrealGitUI"></picture></a>&nbsp;<a href="https://github.com/GunsAndChoices/Guns-And-Choices"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-guns-and-choices-dark.svg"><img src="assets/project-guns-and-choices-light.svg" width="49%" alt="Guns-And-Choices"></picture></a>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
