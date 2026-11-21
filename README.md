@@ -2,19 +2,21 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m TheCreateorGH"></picture>
 
-<a href="https://github.com/TheCreateorGH?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="All repositories"></picture></a>&nbsp;&nbsp;<a href="https://discord.com/users/1163090095813967943"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="Discord"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="27.254%" alt=""></picture><a href="https://t.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="10.814%" alt="x"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="27.254%" alt=""></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/GunsAndChoices/UnrealGitUI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-unrealgitui-dark.svg"><img src="assets/project-unrealgitui-light.svg" width="49%" alt="UnrealGitUI"></picture></a>&nbsp;<a href="https://github.com/GunsAndChoices/Guns-And-Choices"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-guns-and-choices-dark.svg"><img src="assets/project-guns-and-choices-light.svg" width="49%" alt="Guns-And-Choices"></picture></a>
+<a href="https://github.com/TheCreateorGH/ssrp-testing-logs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ssrp-testing-logs-dark.svg"><img src="assets/project-ssrp-testing-logs-light.svg" width="49%" alt="ssrp-testing-logs"></picture></a>&nbsp;<a href="https://github.com/TheCreateorGH/FarmbotCLI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-farmbotcli-dark.svg"><img src="assets/project-farmbotcli-light.svg" width="49%" alt="FarmbotCLI"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/TheCreateorGH?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
 <a href="https://metawka.github.io/expressive-profile/?from=TheCreateorGH"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
